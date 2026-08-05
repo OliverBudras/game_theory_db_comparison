@@ -1,0 +1,233 @@
+[
+  {
+    "id": "e1",
+    "source": "BIOLOGY",
+    "target": "COMPUTER SCIENCE",
+    "weight": 0.0005,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e2",
+    "source": "BIOLOGY",
+    "target": "ECONOMICS",
+    "weight": 0.0172,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e3",
+    "source": "BIOLOGY",
+    "target": "ENGINEERING AND TECHNOLOGY",
+    "weight": 0.0013,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e4",
+    "source": "BIOLOGY",
+    "target": "MANAGEMENT AND OR",
+    "weight": 0.0006,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e5",
+    "source": "BIOLOGY",
+    "target": "MATHEMATICS",
+    "weight": 0.0263,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e6",
+    "source": "BIOLOGY",
+    "target": "OTHER SOCIAL SCIENCES",
+    "weight": 0.0056,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e7",
+    "source": "BIOLOGY",
+    "target": "PSYCHOLOGY",
+    "weight": 0.0035,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e8",
+    "source": "BIOLOGY",
+    "target": "SOCIOLOGY",
+    "weight": 0.0002,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e9",
+    "source": "COMPUTER SCIENCE",
+    "target": "ECONOMICS",
+    "weight": 0.0031,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e10",
+    "source": "COMPUTER SCIENCE",
+    "target": "ENGINEERING AND TECHNOLOGY",
+    "weight": 0.0004,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e11",
+    "source": "COMPUTER SCIENCE",
+    "target": "MANAGEMENT AND OR",
+    "weight": 0.0001,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e12",
+    "source": "COMPUTER SCIENCE",
+    "target": "MATHEMATICS",
+    "weight": 0.0051,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e13",
+    "source": "COMPUTER SCIENCE",
+    "target": "MEDICINE",
+    "weight": 0.0003,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e14",
+    "source": "ECONOMICS",
+    "target": "LAW",
+    "weight": 0.0009,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e15",
+    "source": "ECONOMICS",
+    "target": "MANAGEMENT AND OR",
+    "weight": 0.0638,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e16",
+    "source": "ECONOMICS",
+    "target": "MATHEMATICS",
+    "weight": 0.0614,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e17",
+    "source": "ECONOMICS",
+    "target": "OTHER SOCIAL SCIENCES",
+    "weight": 0.0045,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e18",
+    "source": "ECONOMICS",
+    "target": "POLITICAL SCIENCE",
+    "weight": 0.0063,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e19",
+    "source": "ECONOMICS",
+    "target": "SOCIOLOGY",
+    "weight": 0.0026,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e20",
+    "source": "LAW",
+    "target": "MANAGEMENT AND OR",
+    "weight": 0.0002,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e21",
+    "source": "LAW",
+    "target": "POLITICAL SCIENCE",
+    "weight": 0,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e22",
+    "source": "MANAGEMENT AND OR",
+    "target": "MATHEMATICS",
+    "weight": 0.0065,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e23",
+    "source": "MANAGEMENT AND OR",
+    "target": "OTHER PROFESSIONAL FIELDS",
+    "weight": 0.0002,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e24",
+    "source": "MANAGEMENT AND OR",
+    "target": "OTHER SOCIAL SCIENCES",
+    "weight": 0.0002,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e25",
+    "source": "MANAGEMENT AND OR",
+    "target": "POLITICAL SCIENCE",
+    "weight": 0.0019,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e26",
+    "source": "MANAGEMENT AND OR",
+    "target": "SOCIOLOGY",
+    "weight": 0.0006,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e27",
+    "source": "MATHEMATICS",
+    "target": "OTHER SOCIAL SCIENCES",
+    "weight": 0.0025,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e28",
+    "source": "MATHEMATICS",
+    "target": "PHYSICS",
+    "weight": 0.0003,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e29",
+    "source": "MATHEMATICS",
+    "target": "POLITICAL SCIENCE",
+    "weight": 0.001,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e30",
+    "source": "MATHEMATICS",
+    "target": "SOCIOLOGY",
+    "weight": 0.0002,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e31",
+    "source": "OTHER SOCIAL SCIENCES",
+    "target": "PSYCHOLOGY",
+    "weight": 0.0001,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e32",
+    "source": "OTHER SOCIAL SCIENCES",
+    "target": "SOCIOLOGY",
+    "weight": 0.0005,
+    "stringsAsFactors": false
+  },
+  {
+    "id": "e33",
+    "source": "POLITICAL SCIENCE",
+    "target": "SOCIOLOGY",
+    "weight": 0.0002,
+    "stringsAsFactors": false
+  }
+]
